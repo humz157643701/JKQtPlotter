@@ -1,0 +1,6 @@
+<map id="JKQTMathText::MTinstruction1Node" name="JKQTMathText::MTinstruction1Node">
+<area shape="rect" id="node1" title="subclass representing an instruction node with exactly one argument in the syntax tree" alt="" coords="5,117,308,147"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_math_text_1_1_m_tnode.html" title="subclass representing one node in the syntax tree" alt="" coords="123,5,329,35"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_math_text.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="343,117,477,147"/>
+<area shape="rect" id="node4" title=" " alt="" coords="445,5,532,35"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="JKQTPOverlayTwoPositionOverlay" name="JKQTPOverlayTwoPositionOverlay">
+<area shape="rect" id="node1" title="baseclass for a two&#45;position overlay" alt="" coords="52,160,339,189"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_overlay_line.html" title="draws a line throught two points" alt="" coords="5,237,172,267"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_overlay_rectangle.html" title="draws a rectangle, spanned by two points" alt="" coords="196,237,408,267"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_overlay_element.html" title="this virtual base class describes an interface for graph overlay elements, which are simple geometric..." alt="" coords="96,83,295,112"/>
+<area shape="rect" id="node3" title=" " alt="" coords="152,5,239,35"/>
+</map>

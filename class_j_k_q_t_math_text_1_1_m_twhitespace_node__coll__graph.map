@@ -1,0 +1,7 @@
+<map id="JKQTMathText::MTwhitespaceNode" name="JKQTMathText::MTwhitespaceNode">
+<area shape="rect" id="node1" title="subclass representing one whitepsace node in the syntax tree" alt="" coords="5,196,301,225"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_math_text_1_1_m_ttext_node.html" title="subclass representing one text node in the syntax tree" alt="" coords="33,117,273,147"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_math_text_1_1_m_tnode.html" title="subclass representing one node in the syntax tree" alt="" coords="107,5,314,35"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_math_text.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="297,117,431,147"/>
+<area shape="rect" id="node5" title=" " alt="" coords="394,5,481,35"/>
+</map>

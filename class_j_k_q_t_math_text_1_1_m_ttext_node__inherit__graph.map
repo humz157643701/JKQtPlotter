@@ -1,0 +1,6 @@
+<map id="JKQTMathText::MTtextNode" name="JKQTMathText::MTtextNode">
+<area shape="rect" id="node1" title="subclass representing one text node in the syntax tree" alt="" coords="181,83,421,112"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_math_text_1_1_m_tplain_text_node.html" title="subclass representing one text node in the syntax tree" alt="" coords="5,160,284,189"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_math_text_1_1_m_twhitespace_node.html" title="subclass representing one whitepsace node in the syntax tree" alt="" coords="309,160,605,189"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_math_text_1_1_m_tnode.html" title="subclass representing one node in the syntax tree" alt="" coords="197,5,404,35"/>
+</map>

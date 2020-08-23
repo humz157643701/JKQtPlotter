@@ -1,0 +1,9 @@
+<map id="TestMain" name="TestMain">
+<area shape="rect" id="node1" title=" " alt="" coords="27,357,117,387"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,263,96,292"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_f_p_r_g_b_image_overlay_plot.html" title="plots 1,2 or 3 given grayscale images as an overlay plot, where each channel is drawn as one color ch..." alt="" coords="121,263,378,292"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_f_p_plot.html" title="base class for all plots that may be plotted by JKQTFastPlotter" alt="" coords="194,184,305,213"/>
+<area shape="rect" id="node5" title=" " alt="" coords="185,87,271,116"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_fast_plotter.html" title="a speed optimized plotter class" alt="" coords="296,87,443,116"/>
+<area shape="rect" id="node7" title=" " alt="" coords="314,5,425,35"/>
+</map>

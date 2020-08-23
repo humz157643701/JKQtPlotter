@@ -1,0 +1,51 @@
+<map id="JKQTPGraphLineStyleMixin" name="JKQTPGraphLineStyleMixin">
+<area shape="rect" id="node1" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="5,687,239,716"/>
+<area shape="rect" id="node2" href="$class_j_k_q_t_p_bar_vertical_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="322,121,530,151"/>
+<area shape="rect" id="node8" href="$class_j_k_q_t_p_contour_plot.html" title="class for a contour plot" alt="" coords="343,215,509,244"/>
+<area shape="rect" id="node10" href="$class_j_k_q_t_p_filled_vertical_range_graph.html" title="This implements filled curve plots where the area is filled between two data columns for each x&#45;value..." alt="" coords="315,269,537,315"/>
+<area shape="rect" id="node11" href="$class_j_k_q_t_p_geo_base_line.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="339,340,513,369"/>
+<area shape="rect" id="node16" href="$class_j_k_q_t_p_graph_boxplot_style_mixin.html" title="Styling Mix&#45;In for Boxplots." alt="" coords="296,393,556,423"/>
+<area shape="rect" id="node21" href="$class_j_k_q_t_p_graph_decorated_head_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="287,447,565,494"/>
+<area shape="rect" id="node24" href="$class_j_k_q_t_p_graph_decorated_line_style_mixin.html" title="This Mix&#45;In class provides setter/getter methods, storage and other facilities for the graph line sty..." alt="" coords="288,518,564,565"/>
+<area shape="rect" id="node28" href="$class_j_k_q_t_p_graph_violinplot_style_mixin.html" title="Styling Mix&#45;In for Violinplots." alt="" coords="310,589,542,635"/>
+<area shape="rect" id="node31" href="$class_j_k_q_t_p_horizontal_range.html" title="simply marks a range (and possibly a centerline) in a plot. This may be used to display e...." alt="" coords="325,660,527,689"/>
+<area shape="rect" id="node33" href="$class_j_k_q_t_p_impulses_horizontal_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from y=0 to y=f(x) )" alt="" coords="290,713,562,743"/>
+<area shape="rect" id="node36" href="$class_j_k_q_t_p_overlay_line.html" title="draws a line throught two points" alt="" coords="343,767,509,796"/>
+<area shape="rect" id="node37" href="$class_j_k_q_t_p_overlay_rectangle.html" title="draws a rectangle, spanned by two points" alt="" coords="320,820,532,849"/>
+<area shape="rect" id="node38" href="$class_j_k_q_t_p_overlay_vertical_line.html" title="draws a vertical line as an overlay" alt="" coords="313,873,539,903"/>
+<area shape="rect" id="node39" href="$class_j_k_q_t_p_overlay_vertical_range.html" title="draws a vertical range as an overlay" alt="" coords="304,927,548,956"/>
+<area shape="rect" id="node40" href="$class_j_k_q_t_p_peak_stream_graph.html" title="interprets data as a stream of x&#45; or y&#45;positions &#160;(depending in yPeaks ) ans plots a line on the heig..." alt="" coords="317,980,535,1009"/>
+<area shape="rect" id="node41" href="$class_j_k_q_t_p_special_line_horizontal_graph.html" title="This implements a step plot with values ." alt="" coords="305,1034,547,1081"/>
+<area shape="rect" id="node44" href="$class_j_k_q_t_p_x_function_line_graph.html" title="This implements line plots where the data is taken from a user supplied function ." alt="" coords="311,1109,541,1139"/>
+<area shape="rect" id="node47" href="$class_j_k_q_t_p_x_y_line_graph.html" title="This implements xy line plots. This also alows to draw symbols at the data points." alt="" coords="339,1225,513,1255"/>
+<area shape="rect" id="node3" href="$class_j_k_q_t_p_bar_horizontal_graph.html" title="This implements a bar graph with bars starting at &#160;to ." alt="" coords="649,36,879,65"/>
+<area shape="rect" id="node6" href="$class_j_k_q_t_p_bar_vertical_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="639,89,889,119"/>
+<area shape="rect" id="node7" href="$class_j_k_q_t_p_bar_vertical_stackable_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="645,143,883,190"/>
+<area shape="rect" id="node4" href="$class_j_k_q_t_p_bar_horizontal_error_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicator." alt="" coords="967,5,1237,35"/>
+<area shape="rect" id="node5" href="$class_j_k_q_t_p_bar_horizontal_stackable_graph.html" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="973,59,1231,106"/>
+<area shape="rect" id="node9" href="$class_j_k_q_t_p_column_contour_plot.html" title="class for a contour plots (same as JKQTPContourPlot) of images stored in a JKQTPDatastore column" alt="" coords="651,215,877,244"/>
+<area shape="rect" id="node12" href="$class_j_k_q_t_p_geo_arc.html" title="This JKQTPPlotObject is used to draw an arc." alt="" coords="699,268,829,297"/>
+<area shape="rect" id="node13" href="$class_j_k_q_t_p_geo_base_filled.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="673,321,855,351"/>
+<area shape="rect" id="node14" href="$class_j_k_q_t_p_geo_polygon.html" title="This JKQTPPlotObject is used to draw a polygon." alt="" coords="1019,268,1185,297"/>
+<area shape="rect" id="node15" href="$class_j_k_q_t_p_geo_rectangle.html" title="This JKQTPPlotObject is used to draw a rectangle." alt="" coords="1011,321,1193,351"/>
+<area shape="rect" id="node17" href="$class_j_k_q_t_p_boxplot_vertical_element.html" title="This implements a single vertical (notched) boxplot as a &quot;geometric element&quot;, where the data is direc..." alt="" coords="635,375,893,404"/>
+<area shape="rect" id="node19" href="$class_j_k_q_t_p_boxplot_vertical_graph.html" title="This implements vertical boxplots, optionally also a notched boxplot." alt="" coords="644,428,884,457"/>
+<area shape="rect" id="node18" href="$class_j_k_q_t_p_boxplot_horizontal_element.html" title="This implements a horizontal (notched) boxplot where the data is directly given to the object and not..." alt="" coords="963,375,1241,404"/>
+<area shape="rect" id="node20" href="$class_j_k_q_t_p_boxplot_horizontal_graph.html" title="This implements horizontal boxplots, optionally also a notched boxplot." alt="" coords="971,428,1233,457"/>
+<area shape="rect" id="node22" href="$class_j_k_q_t_p_geo_base_decorated_head_line.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that consist of lines with ..." alt="" coords="613,481,915,511"/>
+<area shape="rect" id="node23" href="$class_j_k_q_t_p_geo_infinite_line.html" title="This JKQTPPlotObject is used to draw an infinite line." alt="" coords="1007,481,1197,511"/>
+<area shape="rect" id="node25" href="$class_j_k_q_t_p_geo_base_decorated_line.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that consist of lines with ..." alt="" coords="635,535,893,564"/>
+<area shape="rect" id="node26" href="$class_j_k_q_t_p_geo_line.html" title="This JKQTPPlotObject is used to draw a line, optionally line&#45;end decorations (aka arrows) are pssible..." alt="" coords="1034,535,1170,564"/>
+<area shape="rect" id="node27" href="$class_j_k_q_t_p_geo_poly_lines.html" title="This JKQTPPlotObject is used to draw a poly line." alt="" coords="1014,588,1190,617"/>
+<area shape="rect" id="node29" href="$class_j_k_q_t_p_violinplot_vertical_element.html" title="This implements a single vertical Violin Plot as a &quot;geometric element&quot;." alt="" coords="629,597,899,627"/>
+<area shape="rect" id="node30" href="$class_j_k_q_t_p_violinplot_horizontal_element.html" title="This implements a single horizontal Violin Plot as a &quot;geometric element&quot;." alt="" coords="989,642,1215,689"/>
+<area shape="rect" id="node32" href="$class_j_k_q_t_p_vertical_range.html" title="simply marks a range (and possibly a centerline) in a plot. This may be used to display e...." alt="" coords="673,651,855,680"/>
+<area shape="rect" id="node34" href="$class_j_k_q_t_p_impulses_horizontal_error_graph.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="632,705,896,751"/>
+<area shape="rect" id="node35" href="$class_j_k_q_t_p_impulses_vertical_graph.html" title="This implements an impulse plot with impulses in direction of the Y axis (i.e. from y=0 to y=f(x) )" alt="" coords="639,776,889,805"/>
+<area shape="rect" id="node42" href="$class_j_k_q_t_p_filled_curve_x_graph.html" title="This implements filled curve plots where the area is filled between the plot line and the x&#45;Axis." alt="" coords="655,976,873,1005"/>
+<area shape="rect" id="node43" href="$class_j_k_q_t_p_special_line_vertical_graph.html" title="This implements a step plot with values ." alt="" coords="653,1030,875,1077"/>
+<area shape="rect" id="node45" href="$class_j_k_q_t_p_x_parsed_function_line_graph.html" title="This implements line plots where the data is taken from a user supplied function &#160;The function is def..." alt="" coords="646,1101,882,1147"/>
+<area shape="rect" id="node46" href="$class_j_k_q_t_p_y_function_line_graph.html" title="This implements line plots where the data is taken from a user supplied function ." alt="" coords="649,1172,879,1201"/>
+<area shape="rect" id="node48" href="$class_j_k_q_t_p_x_y_line_error_graph.html" title="This implements xy line plots with x and y error indicators." alt="" coords="657,1225,871,1255"/>
+<area shape="rect" id="node49" href="$class_j_k_q_t_p_x_y_parametrized_scatter_graph.html" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="635,1279,893,1326"/>
+</map>

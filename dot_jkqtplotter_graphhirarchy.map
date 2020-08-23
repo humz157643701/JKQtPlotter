@@ -1,0 +1,11 @@
+<map id="%3" name="%3">
+<area shape="rect" id="node1" href="\link JKQTPPlotElement" title="\N" alt="" coords="5,299,172,348"/>
+<area shape="rect" id="node3" href="\link JKQTPPlotElement" title="\N" alt="" coords="241,225,361,275"/>
+<area shape="rect" id="node5" href="\link JKQTPPlotObject" title="\N" alt="" coords="224,372,377,421"/>
+<area shape="rect" id="node7" href="\link JKQTPXYGraph" title="\N" alt="" coords="473,5,615,55"/>
+<area shape="rect" id="node9" href="\link JKQTPSingleColumnGraph" title="\N" alt="" coords="429,152,659,201"/>
+<area shape="rect" id="node11" href="\link JKQTPImageBase" title="\N" alt="" coords="463,299,625,348"/>
+<area shape="rect" id="node13" href="\link JKQTPGeoBaseLine" title="\N" alt="" coords="457,451,631,500"/>
+<area shape="rect" id="node15" href="\link JKQTPMathImageBase" title="\N" alt="" coords="707,296,908,345"/>
+<area shape="rect" id="node17" href="\link JKQTPGeoBaseFilled" title="\N" alt="" coords="716,453,899,503"/>
+</map>
